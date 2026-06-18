@@ -1,7 +1,8 @@
 a = 10
 b = 5
 
-print("Addition =", a + b)
-print("Subtraction =", a - b)
-print("Multiplication =", a * b)
-print("Division =", a / b)
+print("Addition  Result=", a + b)
+print("Subtraction Result =", a - b)
+print("Multiplication Result=", a * b)
+print("Division Result=", a / b)
+print("Testing stash")
